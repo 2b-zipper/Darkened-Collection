@@ -1,9 +1,9 @@
 {
-    "name": "Darkened Acid",
-    "description": "A dark theme with lime accents.",
+    "name": "Darkened Basic Enhanced",
+    "description": "An enhanced darker theme with slightly brighter accents.",
     "authors": [
         {
-            "name": "Purple_Ξye™"
+            "name": "2b-zipper"
         }
     ],
     "semanticColors": {
@@ -11,7 +11,7 @@
             "#0E0E0F"
         ],
         "ANDROID_RIPPLE": [
-            "#8FD80618"
+            "#81849124"
         ],
         "BACKGROUND_ACCENT": [
             "#141415"
@@ -26,7 +26,7 @@
             "#0f0f10"
         ],
         "BACKGROUND_MENTIONED": [
-            "#90D80615"
+            "#81849115"
         ],
         "BG_BASE_TERTIARY": [
             "#040405"
@@ -38,7 +38,7 @@
             "#09090A"
         ],
         "BG_BRAND": [
-            "#90D80695"
+            "#81849195"
         ],
         "BG_SURFACE_RAISED": [
             "#0E0E0F"
@@ -53,7 +53,7 @@
             "#0E0E0F"
         ],
         "CHANNEL_ICON": [
-            "#90D80665"
+            "#9CA3AF"
         ],
         "EMBED_BACKGROUND": [
             "#111011"
@@ -62,37 +62,37 @@
             "#111011"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#90D806"
+            "#A0AEC0"
         ],
         "INTERACTIVE_MUTED": [
             "#262627"
         ],
         "INTERACTIVE_NORMAL": [
-            "#90D806"
+            "#A0AEC0"
         ],
         "PANEL_BG": [
             "#0C0C0D"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#467200"
+            "#5a5a5a"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#467200"
+            "#6B7280"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#467200"
+            "#6B7280"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#90D806"
+            "#818491"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
-            "#dbdee1"
+            "#E5E7EB"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#90D806"
+            "#A0AEC0"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#90D806"
+            "#A0AEC0"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
@@ -104,19 +104,19 @@
             "#b5bac1"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#90D806"
+            "#A0AEC0"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#467200"
+            "#5a5a5a"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
-            "#90D806"
-        ],
-        "TEXT_MUTED": [
             "#818491"
         ],
+        "TEXT_MUTED": [
+            "#A0AEC0"
+        ],
         "TEXT_LINK": [
-            "#90D806"
+            "#A0AEC0"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#0E0E0F"
@@ -152,39 +152,48 @@
             "#f23f431a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#90D80614"
+            "#81849114"
+        ],
+        "BORDER_FAINT": [
+            "#4A5568"
+        ],
+        "BORDER_STRONG": [
+            "#2D3748"
+        ],
+        "BORDER_SUBTLE": [
+            "#6B7280"
         ]
     },
     "rawColors": {
-        "BLUE_345": "#90D806",
-        "GREEN_430": "#90D806",
-        "RED_430": "#E02929",
-        "RED_460": "#AF2323",
-        "GREEN_460": "#467200",
-        "BRAND_260": "#90D806",
-        "BRAND_360": "#90D806",
-        "RED_400": "#F83838",
-        "BRAND_500": "#90D806",
-        "BRAND_560": "#467200",
-        "PLUM_13": "#90D806",
-        "PLUM_14": "#1D1D21",
-        "PLUM_15": "#90D806",
-        "PLUM_16": "#1D1D21",
-        "PLUM_17": "#0E0E0F",
-        "PLUM_18": "#111011",
-        "PLUM_19": "#467200",
+        "BLUE_345": "#A0AEC0",
+        "GREEN_430": "#A0AEC0",
+        "RED_430": "#E53E3E",
+        "RED_460": "#C53030",
+        "GREEN_460": "#A0AEC0",
+        "BRAND_260": "#A0AEC0",
+        "BRAND_360": "#A0AEC0",
+        "RED_400": "#F56565",
+        "BRAND_500": "#A0AEC0",
+        "BRAND_560": "#6B7280",
+        "PLUM_13": "#A0AEC0",
+        "PLUM_14": "#2D3748",
+        "PLUM_15": "#A0AEC0",
+        "PLUM_16": "#6B7280",
+        "PLUM_17": "#09090A",
+        "PLUM_18": "#09090A",
+        "PLUM_19": "#09090A",
         "PLUM_20": "#09090A",
-        "PLUM_22": "#0E0E0F",
-        "PLUM_24": "#191919",
-        "PRIMARY_500": "#1E1D1E",
-        "PRIMARY_600": "#0b080d",
-        "PRIMARY_660": "#141314",
-        "PRIMARY_700": "#0f0f10",
-        "PRIMARY_800": "#0C0B0C"
+        "PLUM_22": "#09090A",
+        "PLUM_24": "#09090A",
+        "PRIMARY_500": "#09090A",
+        "PRIMARY_600": "#09090A",
+        "PRIMARY_660": "#09090A",
+        "PRIMARY_700": "#09090A",
+        "PRIMARY_800": "#09090A"
     },
     "spec": 2,
     "plus": {
         "version": 0,
-        "mentionLineColor": "#90D806"
+        "mentionLineColor": "#A0AEC0"
     }
 }
