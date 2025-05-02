@@ -1,8 +1,11 @@
-# Darkened-Collection
-A curated collection of sleek dark themes with vibrant accents for Revenge. This is a fork of the original Darkened Basic theme, enhanced with additional features and optimizations.
+# Darkened-Basic-Enhanced
+An enhanced version of the original Basic theme for Revenge
+
+## About This Fork
+This fork was created for personal use, featuring modifications and enhancements to better suit individual preferences.
 
 ## Links:
 
-- Darkened Basic Enhanced: https://raw.githubusercontent.com/2b-zipper/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Basic_Enhanced.json
+- Darkened Basic Enhanced: https://raw.githubusercontent.com/2b-zipper/Darkened-Basic-Enhanced/refs/heads/main/Darkened_Basic_Enhanced.json
 
-- Darkened Basic Enhanced - AMOLED: https://raw.githubusercontent.com/2b-zipper/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Basic_Enhanced_AMOLED.json
+- Darkened Basic Enhanced - AMOLED: https://raw.githubusercontent.com/2b-zipper/Darkened-Basic-Enhanced/refs/heads/main/Darkened_Basic_Enhanced_AMOLED.json
